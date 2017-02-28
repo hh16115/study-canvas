@@ -1,0 +1,35 @@
+
+html, body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, code, form, fieldset, legend, input, textarea, p, blockquote, th, td, em, button {
+    margin: 0;
+    padding: 0;
+}
+body {
+    font: 14px/1.5 "Microsoft yahei",arial, Simsun, sans-serif;
+    color: #333;
+    background-color: #fff;
+}
+img {
+    border: none;
+    vertical-align: middle;
+}
+
+.title {
+    height: 40px;
+    line-height: 40px;
+    float: left;
+}
+
+.btn-cls {
+    width: 100px;
+    height: 40px;
+    line-height: 40px;
+    border-radius: 4px;
+    background-color: green;
+    color: #fff;
+    font-size: 16px;
+    text-align: center;
+}
+.canvas-cls {
+    float: left;
+    background-color: #e8e8e8;
+}
